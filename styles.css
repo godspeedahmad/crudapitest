@@ -1,0 +1,16 @@
+.recipe {
+    border-bottom: 2px dashed;
+    margin-bottom: 10px;
+}
+
+.btn {
+    background: lightskyblue;
+}
+
+.btnDelete {
+    background: red;
+}
+
+.btnEdit {
+    background: orange;
+}
